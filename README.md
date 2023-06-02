@@ -51,7 +51,7 @@
 #### You can also find me on: 
 
 [<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kaggle/kaggle-icon.svg" />][Kaggle]
+[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
 
                                                                                                                                                                        
 
@@ -64,16 +64,16 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aqib-Ansari&label=Profile%20views&color=0e75b6&style=flat" alt="Aqib-Ansari" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entbappy&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aqib-Ansari&show_icons=true&locale=en&layout=compact" alt="Aqib-Ansari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=entbappy&show_icons=true&locale=en" alt="entbappy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aqib-Ansari&show_icons=true&locale=en" alt="Aqib-Ansari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aqib-Ansari&" alt="Aqib-Ansari" /></p>
 
 
 
