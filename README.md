@@ -51,7 +51,7 @@
 #### You can also find me on: 
 
 [<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][Kaggle]
+[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kaggle/kaggle-icon.svg" />][Kaggle]
 
                                                                                                                                                                        
 
